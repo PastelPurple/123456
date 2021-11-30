@@ -44,8 +44,8 @@ jobs:
           context: ./src/samples/simple
           # Note: tags has to be all lower-case
           tags: |
-            oskardudycz/eventsourcing.nodejs.simple:latest 
-            ghcr.io/oskardudycz/eventsourcing.nodejs/simple:latest
+            pastelpurple/hi12345:latest 
+            ghcr.io/pastelpurple/hi12345:latest
           # build on feature branches, push only on main branch
           push: ${{ github.ref == 'refs/heads/main' }}
 
