@@ -1,2 +1,2 @@
-from hello-world
+from debian
 ADD . .
