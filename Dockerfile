@@ -1,2 +1,2 @@
-from debian
+from python
 ADD . .
