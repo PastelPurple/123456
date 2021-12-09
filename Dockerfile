@@ -1,2 +1,2 @@
-from python
+from hello-world
 ADD . .
