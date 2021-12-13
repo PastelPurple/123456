@@ -1,2 +1,2 @@
-from alpine
+from python
 ADD . .
