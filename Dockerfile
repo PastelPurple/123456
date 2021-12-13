@@ -1,2 +1,2 @@
-from ubuntu
+from alpine
 ADD . .
